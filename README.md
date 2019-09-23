@@ -6,6 +6,11 @@
 # Zip
 A Swift 4.0 framework for zipping and unzipping files. Simple and quick to use. Built on top of [minizip](https://github.com/nmoinvaz/minizip).
 
+
+## Fork
+
+This is a fork of https://github.com/marmelroy/Zip merging https://github.com/marmelroy/Zip/pull/155. I will maintain this until upstream returns, in the mean time pull requests are welcome.
+
 ## Usage
 
 Import Zip at the top of the Swift file.
